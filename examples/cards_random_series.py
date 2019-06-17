@@ -15,6 +15,7 @@ can be exercised.
 
 #Below is program for N=100
 
+import random
 d = []
 N=100
 for i in range(1, N+1):
